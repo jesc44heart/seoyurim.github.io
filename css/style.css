@@ -92,6 +92,68 @@ a:hover{
 
 
 
+/* recent works */
+
+.recent-menu{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 15px;
+	font-weight: 700;
+
+	text-align: right;
+	margin-top: 100px;
+}
+
+
+/*footer*/
+.footer {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-bottom: 100px;
+}
+
+.contact {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 50px;
+	font-weight: 700;
+
+	color: grey;
+	border-top: 1px solid grey;
+	margin-bottom: 40px;
+
+	border-bottom: 1px solid grey;
+}
+
+
+.links>a{
+	font-family: 'Montserrat', sans-serif;
+	color: black;
+	font-size: 30px;
+	font-weight: 300;
+	margin-left: 15px;
+
+}
+
+.links>a:hover{
+	color: white;
+}
+
+
+
+
+.footer>p{
+	font-family: 'Noto Sans KR', sans-serif;
+	font-weight: 100;
+	color: black;
+	font-size: 15px;
+	margin: 0;
+	margin-top: 5px;
+}
+
+
+
+
+
 
 
 
